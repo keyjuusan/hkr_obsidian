@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiero.md",
+                "file": "Crear mi propio entorno descritorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiero"
+              "title": "Crear mi propio entorno descritorio"
             }
           }
         ]
@@ -188,6 +188,7 @@
   "active": "86daa6bde0c68c4c",
   "lastOpenFiles": [
     "Quiero.md",
+    "Crear mi propio entorno descritorio.md",
     "Bienvenido.md"
   ]
 }
