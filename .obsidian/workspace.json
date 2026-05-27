@@ -11,10 +11,14 @@
             "id": "2898988526c457c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "YO QUIERO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YO QUIERO"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "YO LOGRÉ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e7ab7312f8aa5b7",
+  "active": "2898988526c457c1",
   "lastOpenFiles": [
     "YO LOGRÉ.md",
     "YO QUIERO.md",
