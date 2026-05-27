@@ -1,3 +1,3 @@
 [[Personalizar lightdm ]]
 [[Instalar Arch en UEFI]]
-[[Crear mi propio entorno descritorio]]
+[[Crear mi propio entorno de escritorio]]
