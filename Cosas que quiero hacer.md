@@ -1,1 +1,1 @@
-- [ ] Personalizar lightdm
+- [ ] Personalizar lightdm 
