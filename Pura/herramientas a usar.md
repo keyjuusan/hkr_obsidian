@@ -31,6 +31,6 @@
 
 - **`apache`**: El **servidor web HTTP** encargado de recibir las peticiones de los usuarios y devolver páginas web o archivos.
     
-    > `sudo systemctl restart apache2` _(Reinicia el servidor para aplicar cambios)._
+    > `sudo systemctl restart httpd` _(Reinicia el servidor para aplicar cambios)._
     
 - **`mod_wsgi`**: Un módulo para Apache que le permite **comunicarse con aplicaciones Python** (como Flask o Django). Traduce las peticiones HTTP a algo que Python entienda.
