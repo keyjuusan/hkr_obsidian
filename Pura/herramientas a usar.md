@@ -1,0 +1,8 @@
+- apache
+- ss
+- chown
+- chmod
+- tail
+- nano
+- tee
+- mod_wsgi
