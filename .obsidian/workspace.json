@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Recursos/Plantillas/Nota formato.md",
+                "file": "04 Recursos/Plantillas/Nota Diaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota formato"
+              "title": "Nota Diaria"
+            }
+          },
+          {
+            "id": "b5fbc40ed6f341cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,22 +169,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sin título"
+              "title": "Esquema"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +193,16 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "7c136817ab48cccd",
+  "active": "b5fbc40ed6f341cd",
   "lastOpenFiles": [
-    "01 Entrante/Sin título.md",
-    "04 Recursos/Plantillas/Nota formato.md",
+    "01 Entrante/Construyendo un servidor web de un solo hilo.md",
+    "04 Recursos/Plantillas/Nota Diaria.md",
+    "04 Recursos/Plantillas/Nota.md",
+    "04 Recursos/Plantillas/Apuntes.md",
     "Sin título.md",
     "04 Recursos/Adjuntos",
     "04 Recursos/Plantillas",
