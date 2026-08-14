@@ -1,5 +1,0 @@
-[[Personalizar lightdm ]]
-[[Personalizar dwm ]]
-[[Instalar Arch en UEFI]]
-[[Crear mi propio entorno de escritorio]]
-[[Crear coleccion de componentes para React]]
