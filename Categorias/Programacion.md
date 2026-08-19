@@ -1,0 +1,5 @@
+---
+tags:
+  - categorias
+---
+![[Programacion.base]]

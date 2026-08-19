@@ -13,22 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Recursos/Plantillas/Nota Diaria.md",
+                "file": "Categorias/Programacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Programacion"
             }
           },
           {
-            "id": "b5fbc40ed6f341cd",
+            "id": "852d43b7d7b87d65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "bases",
+              "state": {
+                "file": "Bases de datos/Programacion.base",
+                "viewName": "Tabla"
+              },
+              "icon": "lucide-table",
+              "title": "Programacion"
             }
           }
         ],
@@ -169,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bases de datos/Programacion.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -197,28 +201,28 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b5fbc40ed6f341cd",
+  "active": "852d43b7d7b87d65",
   "lastOpenFiles": [
-    "01 Entrante/Construyendo un servidor web de un solo hilo.md",
-    "04 Recursos/Plantillas/Nota Diaria.md",
+    "Categorias/Programacion.md",
+    "Bases de datos/Programacion.base",
+    "Bases de datos/Programacion.base",
+    "Bases de datos",
+    "Plantillas",
+    "Adjuntos",
+    "Categorias",
     "04 Recursos/Plantillas/Nota.md",
+    "04 Recursos/Plantillas/Nota Diaria.md",
+    "01 Entrante/Construyendo un servidor web de un solo hilo.md",
     "04 Recursos/Plantillas/Apuntes.md",
-    "Sin título.md",
     "04 Recursos/Adjuntos",
     "04 Recursos/Plantillas",
     "04 Recursos",
     "03 Proyectos",
-    "02 Notas conectadas/Notas principales",
-    "02 Notas conectadas/Notas atomicas",
-    "02 Notas conectadas",
-    "01 Entrante",
     "Pura/herramientas a usar.md",
     "Mi linux/YO QUIERO.md",
     "Pura/configuracion flask.md",
     "Pura/Servidor Web Apache Linux.md",
-    "Pura",
     "Mi linux/YO LOGRÉ.md",
-    "Mi linux",
     "EER inparques.md",
     "Crear mi propio entorno descritorio.md",
     "Crear mi propio entorno de escritorio.md",
