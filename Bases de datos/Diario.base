@@ -3,6 +3,8 @@ filters:
     - file.name.contains(this.file.name)
     - file.links.contains(this.file)
     - creado.toString().contains(this.file.name)
+    - start.toString().contains(this.file.name)
+    - end.toString().contains(this.file.name)
 views:
   - type: table
     name: Diario
@@ -11,3 +13,11 @@ views:
         - '!file.tags.contains("diario")'
         - '!file.tags.contains("mensual")'
         - file.name != this.file.name
+    order:
+      - file.name
+      - creado
+      - categorias
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC

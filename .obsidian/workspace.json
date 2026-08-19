@@ -61,7 +61,8 @@
               "title": "Programacion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2026-08-19.md",
+                "file": "Bases de datos/Diario.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,18 +230,18 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "74e0e755b18224fa",
+  "active": "1eac65d173c05ff6",
   "lastOpenFiles": [
+    "Notas/Sin título.md",
     "Bases de datos/Diario.base",
-    "Plantillas/Diario Plantilla.md",
     "Diario/2026-08-19.md",
+    "Plantillas/Diario Plantilla.md",
     "Categorias/Programacion.md",
     "Plantillas/Programacion Plantilla.md",
     "Notas/Creando un servidor web super rapido y seguro.md",
     "Bases de datos/Programacion.base",
     "Referencias/Rust.md",
     "Diario/Fecha inválida.md",
-    "Notas/Sin título.md",
     "Referencias",
     "Notas",
     "Diario",
