@@ -10,14 +10,12 @@ views:
     name: Diario
     filters:
       and:
-        - '!file.tags.contains("diario")'
-        - '!file.tags.contains("mensual")'
+        - file.tags.contains("diario")
+        - '!file.name.contains("Plantilla")'
         - file.name != this.file.name
     order:
       - file.name
       - creado
       - categorias
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
+    sort: []
