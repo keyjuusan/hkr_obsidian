@@ -9,6 +9,9 @@
     "publicacion": "multitext",
     "autor": "multitext",
     "relacionado": "multitext",
-    "creado": "date"
+    "creado": "date",
+    "categorias": "multitext",
+    "sintaxis": "multitext",
+    "creadoo": "date"
   }
 }

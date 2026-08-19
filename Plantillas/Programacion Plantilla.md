@@ -1,0 +1,6 @@
+---
+categorias:
+  - "[[Programacion]]"
+sintaxis:
+creado:
+---

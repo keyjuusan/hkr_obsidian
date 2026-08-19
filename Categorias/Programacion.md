@@ -2,4 +2,4 @@
 tags:
   - categorias
 ---
-![[Programacion.base]]
+![[Programacion.base#Programacion]]

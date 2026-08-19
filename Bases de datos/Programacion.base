@@ -1,3 +1,11 @@
+filters:
+  and:
+    - categorias.contains(link("Programacion"))
+    - '!file.name.contains("Plantilla")'
 views:
   - type: table
-    name: Tabla
+    name: Programacion
+    order:
+      - file.name
+      - sintaxis
+      - creado

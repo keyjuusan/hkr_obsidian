@@ -1,0 +1,13 @@
+filters:
+  or:
+    - file.name.contains(this.file.name)
+    - file.links.contains(this.file)
+    - creado.toString().contains(this.file.name)
+views:
+  - type: table
+    name: Diario
+    filters:
+      and:
+        - '!file.tags.contains("diario")'
+        - '!file.tags.contains("mensual")'
+        - file.name != this.file.name
