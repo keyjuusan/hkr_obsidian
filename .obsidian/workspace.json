@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantillas/Diario.md",
+                "file": "Plantillas/{{date}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diario"
+              "title": "{{date}}"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plantillas/Diario.md",
+                "file": "Plantillas/{{date}}.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,15 +213,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "random-note:Abrir nota al azar": false
     }
   },
-  "active": "f097d8bbce861016",
+  "active": "916677c81575df72",
   "lastOpenFiles": [
     "Referencias",
     "Notas",
     "Categorias/Programacion.md",
-    "Plantillas/Diario.md",
+    "Plantillas/{{date}}.md",
     "Diario",
     "Info Terceros",
     "Bases de datos/Programacion.base",
