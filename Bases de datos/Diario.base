@@ -1,18 +1,9 @@
 filters:
-  or:
-    - file.name.contains(this.file.name)
-    - file.links.contains(this.file)
-    - creado.toString().contains(this.file.name)
-    - start.toString().contains(this.file.name)
-    - end.toString().contains(this.file.name)
+  and:
+    - file.properties. == this.file.name
 views:
   - type: table
     name: Diario
-    filters:
-      and:
-        - file.tags.contains("diario")
-        - '!file.name.contains("Plantilla")'
-        - file.name != this.file.name
     order:
       - file.name
       - creado

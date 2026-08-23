@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Planificando mi perfil profesional.md",
+                "file": "Diario/19-08-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Planificando mi perfil profesional"
+              "title": "19-08-2026"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.25390625,
-    "collapsed": true
+    "width": 202.25390625
   },
   "right": {
     "id": "16a4aa74e2fd4556",
@@ -160,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Diario/19-08-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,13 +192,14 @@
   },
   "active": "4344c101b14a38eb",
   "lastOpenFiles": [
-    "Notas/Planificando mi perfil profesional.md",
-    "Bases de datos/Programacion.base",
+    "Diario/23-08-2026.md",
+    "Diario/19-08-2026.md",
     "Notas/Creando un servidor web super rapido y seguro.md",
+    "Bases de datos/Programacion.base",
     "Bases de datos/Diario.base",
-    "Diario/2026-08-19.md",
-    "Plantillas/Diario Plantilla.md",
     "Categorias/Programacion.md",
+    "Notas/Planificando mi perfil profesional.md",
+    "Plantillas/Diario Plantilla.md",
     "Plantillas/Programacion Plantilla.md",
     "Referencias/Rust.md",
     "Diario/Fecha inválida.md",
