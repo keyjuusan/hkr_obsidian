@@ -1,9 +1,12 @@
 filters:
   and:
-    - file.links.contains(this.file.name)
+    - creado.toString().contains(this.file.name)
 views:
   - type: table
     name: Diario
+    filters:
+      and:
+        - file.name != this.file.name
     order:
       - file.name
       - creado

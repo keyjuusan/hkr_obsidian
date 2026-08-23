@@ -3,5 +3,5 @@ categorias:
   - "[[Programacion]]"
 sintaxis:
   - "[[Rust]]"
-creadoo: 2026-08-19
+creado: 2026-08-19
 ---
