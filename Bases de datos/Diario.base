@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.properties. == this.file.name
+    - file.links.contains(this.file.name)
 views:
   - type: table
     name: Diario
