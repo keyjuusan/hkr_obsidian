@@ -40,4 +40,4 @@ Soy un desarrollador Full Stack con más de 5 años de experiencia transformando
 - **Optimización de bases de datos**: Modelado, indexación, migración y consultas avanzadas en sistemas relacionales (MySQL).
 - **Contenedores y DevOps**: Virtualización de entornos de desarrollo y producción con Docker para garantizar la consistencia del código.
 - **Seguridad y buenas prácticas**: Implementación de desarrollo seguro contra vulnerabilidades comunes (OWASP Top 10).
-- **Control de versiones**: Gestión avanzada de repositorios, flujos de trabajo (GitFlow) y revisiones de código.
+- **Control de versiones**: Gestión avanzada de repositorios, flujos de trabajo y revisiones de código.
