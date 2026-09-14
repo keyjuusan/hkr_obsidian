@@ -1,5 +1,5 @@
 {
   "folder": "Diario",
-  "format": "DD-MM-YYYY",
+  "format": "YYYY-MM-DD",
   "template": "Plantillas/Diario Plantilla.md"
 }
