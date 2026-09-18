@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Planificando mi perfil profesional.md",
+                "file": "Notas/Scrum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Planificando mi perfil profesional"
+              "title": "Scrum"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,9 +222,10 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "a69ffd7ec59dc1c6",
+  "active": "628323de7ef8523e",
   "lastOpenFiles": [
     "Notas/Planificando mi perfil profesional.md",
+    "Notas/Scrum.md",
     "Notas/Sistema integral para la gestión y automatización de bufetes de abogados.md",
     "Notas/Portafolio Web.md",
     "Notas/mi cuenta de youtube.md",
@@ -258,7 +259,6 @@
     "Mi linux/YO QUIERO.md",
     "Pura/configuracion flask.md",
     "Pura/Servidor Web Apache Linux.md",
-    "Mi linux/YO LOGRÉ.md",
-    "EER inparques.md"
+    "Mi linux/YO LOGRÉ.md"
   ]
 }

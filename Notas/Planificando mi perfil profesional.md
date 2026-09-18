@@ -36,7 +36,7 @@ Soy un desarrollador Full Stack con más de 5 años de experiencia transformando
 - **Comunicación técnica y comercial**: Habilidad para explicar conceptos complejos de forma clara a clientes, stakeholders y equipos de desarrollo.
 - **Adaptabilidad y autoaprendizaje**: Aprendizaje ágil de nuevas herramientas, metodologías y requerimientos cambiantes del mercado.
 - **Gestión de proyectos independientes**: Organización eficiente del tiempo para cumplir con entregas rigurosas en proyectos simultáneos.
-- **Trabajo en equipo**: Colaboración activa en entornos dinámicos bajo metodologías ágiles (Scrum).
+- **Trabajo en equipo**: Colaboración activa en entornos dinámicos bajo metodologías ágiles ([[Scrum]]).
 
 ### habilidades fuertes
 - **Integración de Inteligencia Artificial (MCP)**: Diseño e implementación de arquitecturas basadas en el Model Context Protocol para conectar LLMs de forma segura con bases de datos internas, entornos de desarrollo y APIs de negocio.
