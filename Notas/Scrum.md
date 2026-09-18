@@ -25,6 +25,9 @@ El conjunto de tareas del Product Backlog que el equipo se compromete a programa
 3. Ciclo de Desarrollo (Eventos de Scrum)
 fases:
 Sprint Planning
+Al inicio del ciclo, el equipo elige qué historias de usuario del _Backlog_ procesará. Por ejemplo, deciden que en las próximas 2 semanas programarán el catálogo de productos y el carrito de compras.
+
 Daily Scrum
+Una reunión diaria de 15 minutos. Cada desarrollador responde: ¿Qué programé ayer? ¿Qué programaré hoy? ¿Tengo algún problema con el código o las API?
 Sprint Review
 Retrospective
