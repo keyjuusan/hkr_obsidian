@@ -15,3 +15,11 @@ Inforamcion
 - redes sociales
 - proyectos
 - gustos personales
+La interfaz de cada tarjeta de proyecto
+- sin esquinas
+- con sombras
+- al hacer click:
+	- abre un modal donde se ve:
+		- un video de youtube que muestra un recorrido por la app
+		- un boton para ir a la demo
+		- un boton para ir al repositorio
