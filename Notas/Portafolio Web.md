@@ -20,6 +20,6 @@ La interfaz de cada tarjeta de proyecto
 - con sombras
 - al hacer click:
 	- abre un modal donde se ve:
-		- un video de youtube que muestra un recorrido por la app
+		- un video de [[mi cuenta de youtube]] que muestra un recorrido por la app
 		- un boton para ir a la demo
 		- un boton para ir al repositorio

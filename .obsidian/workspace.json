@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Portafolio Web.md",
+                "file": "Notas/mi cuenta de youtube.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Portafolio Web"
+              "title": "mi cuenta de youtube"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "2c12b74ce01fd193",
   "lastOpenFiles": [
-    "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
+    "Notas/mi cuenta de youtube.md",
+    "Notas/Planificando mi perfil profesional.md",
     "Notas/Investigacion de Operaciones.md",
     "Diario/2026-08-23.md",
     "Referencias/Rust.md",
@@ -243,7 +244,6 @@
     "Pura/Servidor Web Apache Linux.md",
     "Mi linux/YO LOGRÉ.md",
     "EER inparques.md",
-    "Crear mi propio entorno descritorio.md",
-    "Crear mi propio entorno de escritorio.md"
+    "Crear mi propio entorno descritorio.md"
   ]
 }
