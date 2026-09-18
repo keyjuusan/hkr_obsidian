@@ -1,5 +1,7 @@
 ---
 creado: 2026-08-23
+tags:
+  - perfil_profesional
 ---
 ### nombre
 Heyker Vargas
