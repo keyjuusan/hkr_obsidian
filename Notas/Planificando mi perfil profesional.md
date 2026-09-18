@@ -17,7 +17,7 @@ Nextjs, React Native, Typescript, Mysql, Django, Docker, MCP (Model Context Prot
 Desarrollador Full Stack con +5 años de experiencia enfocado en la simplicidad, la seguridad, la importancia de la UX/UI, el alto rendimiento y la integración avanzada de Inteligencia Artificial mediante el protocolo MCP.
 
 ### experiencias
-- Sistema integral para la gestión y automatización de bufetes de abogados.
+- [[Sistema integral para la gestión y automatización de bufetes de abogados]].
 - Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.
 - Aplicación móvil para agilizar la renta de productos mediante escáner de seriales y códigos QR.
 - Plataforma de optimización y seguimiento en tiempo real para pedidos de comida.
