@@ -29,5 +29,9 @@ Al inicio del ciclo, el equipo elige qué historias de usuario del _Backlog_ pro
 
 Daily Scrum
 Una reunión diaria de 15 minutos. Cada desarrollador responde: ¿Qué programé ayer? ¿Qué programaré hoy? ¿Tengo algún problema con el código o las API?
+
 Sprint Review
+Al final del Sprint, se le muestra la app web funcional al cliente o Product Owner. No se presentan diapositivas, se muestra el código desplegado para recibir feedback real.
+
 Retrospective
+El equipo se reúne a evaluar el proceso interno. Analizan si las herramientas web (servidores, frameworks) funcionaron bien y cómo pueden mejorar la comunicación en el próximo ciclo.
