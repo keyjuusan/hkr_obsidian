@@ -20,3 +20,5 @@ Lo que sí heredaron de Taylor (La Filosofía)
 
 **El salto al mundo empresarial (1947 - 1950)**
 **George Dantzig**: desarrolló el Método Simplex, el algoritmo que permitió resolver problemas complejos de programación lineal por primera vez de forma masiva.
+
+[[Tipos de Modelos IO]]
