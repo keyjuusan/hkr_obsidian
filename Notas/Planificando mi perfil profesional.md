@@ -18,7 +18,7 @@ Desarrollador Full Stack con +5 años de experiencia enfocado en la simplicidad,
 
 ### experiencias
 - [[Sistema integral para la gestión y automatización de bufetes de abogados]].
-- Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.
+- [[Sistema de alertas masivas y monitoreo geolocalizado en tiempo real]].
 - Aplicación móvil para agilizar la renta de productos mediante escáner de seriales y códigos QR.
 - Plataforma de optimización y seguimiento en tiempo real para pedidos de comida.
 

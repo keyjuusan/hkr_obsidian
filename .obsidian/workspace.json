@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Tipos de Modelos IO.md",
+                "file": "Notas/Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Modelos IO"
+              "title": "Sistema de alertas masivas y monitoreo geolocalizado en tiempo real"
             }
           }
         ]
@@ -193,12 +193,13 @@
   },
   "active": "ce3f899b8f3b2ab4",
   "lastOpenFiles": [
-    "Notas/Investigacion de Operaciones.md",
+    "Notas/Planificando mi perfil profesional.md",
+    "Notas/Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.md",
     "Notas/Tipos de Modelos IO.md",
+    "Notas/Investigacion de Operaciones.md",
     "Notas/Sin título.md",
     "Notas/Sistema integral para la gestión y automatización de bufetes de abogados.md",
     "Notas/Scrum.md",
-    "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
     "Notas/mi cuenta de youtube.md",
     "Diario/2026-08-23.md",
@@ -227,7 +228,6 @@
     "01 Entrante/Construyendo un servidor web de un solo hilo.md",
     "04 Recursos/Plantillas/Apuntes.md",
     "Pura/herramientas a usar.md",
-    "Mi linux/YO QUIERO.md",
-    "Pura/configuracion flask.md"
+    "Mi linux/YO QUIERO.md"
   ]
 }
