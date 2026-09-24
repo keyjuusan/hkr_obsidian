@@ -8,4 +8,5 @@ frontend:
 - leaftlet(mapa)
 backend:
 - rust(axum)
-- 
+- mysql
+- redis
