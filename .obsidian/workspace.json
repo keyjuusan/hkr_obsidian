@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +237,10 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "0f58886b9afbf697",
+  "active": "6bdbecb078c8bd1c",
   "lastOpenFiles": [
-    "Notas/Spec atomica.md",
     "Notas/ARCHITECT.md.md",
+    "Notas/Spec atomica.md",
     "Notas/Plantilla de AGENTS.md.md",
     "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
