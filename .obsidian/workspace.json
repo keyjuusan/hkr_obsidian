@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,11 +237,11 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "78b7c8f814b6a0ae",
+  "active": "0f58886b9afbf697",
   "lastOpenFiles": [
     "Notas/Spec atomica.md",
-    "Notas/ARCHITECT.md.md",
     "Notas/Plantilla de AGENTS.md.md",
+    "Notas/ARCHITECT.md.md",
     "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
     "Notas/Sistema integral para la gestión y automatización de bufetes de abogados.md",
