@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/ARCHITECT.md.md",
+                "file": "Notas/Spec atomica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ARCHITECT.md"
+              "title": "Spec atomica"
             }
           }
         ],
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.25390625,
-    "collapsed": true
+    "width": 202.25390625
   },
   "right": {
     "id": "16a4aa74e2fd4556",
@@ -239,13 +238,15 @@
   },
   "active": "0f58886b9afbf697",
   "lastOpenFiles": [
-    "Notas/Spec atomica.md",
+    "Categorias/Experimento Plantilla.md",
+    "Notas/Creando un servidor web super rapido y seguro.md",
+    "Notas/Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.md",
     "Notas/Plantilla de AGENTS.md.md",
     "Notas/ARCHITECT.md.md",
+    "Notas/Spec atomica.md",
     "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
     "Notas/Sistema integral para la gestión y automatización de bufetes de abogados.md",
-    "Notas/Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.md",
     "Notas/Tipos de Modelos IO.md",
     "Notas/Investigacion de Operaciones.md",
     "Notas/Sin título.md",
@@ -259,11 +260,9 @@
     "Bases de datos/Programacion.base",
     "Bases de datos/Experimento.base",
     "Bases de datos/Diario.base",
-    "Categorias/Experimento Plantilla.md",
     "Categorias/Programacion.md",
     "Plantillas/Categoria Plantilla.md",
     "Plantillas/Programacion Plantilla.md",
-    "Notas/Creando un servidor web super rapido y seguro.md",
     "Diario/2026-08-19.md",
     "Diario/Fecha inválida.md",
     "Referencias",
