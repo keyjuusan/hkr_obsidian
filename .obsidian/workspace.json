@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Spec atomica.md",
+                "file": "Notas/SPEC.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Spec atomica"
+              "title": "SPEC.md"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Spec atomica.md",
+                "file": "Notas/SPEC.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Spec atomica"
+              "title": "SPEC.md"
             }
           }
         ],
@@ -243,7 +243,7 @@
     "Notas/Sistema de alertas masivas y monitoreo geolocalizado en tiempo real.md",
     "Notas/Plantilla de AGENTS.md.md",
     "Notas/ARCHITECT.md.md",
-    "Notas/Spec atomica.md",
+    "Notas/SPEC.md.md",
     "Notas/Planificando mi perfil profesional.md",
     "Notas/Portafolio Web.md",
     "Notas/Sistema integral para la gestión y automatización de bufetes de abogados.md",
